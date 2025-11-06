@@ -1,0 +1,10 @@
+city,year,rain_dec,rain_jan,rain_feb,rain_mar,season_label
+Lusaka,2018,50,120,90,80,normal
+Lusaka,2019,10,100,80,60,delayed
+Lusaka,2020,5,20,15,10,failed
+Ndola,2018,60,130,95,85,normal
+Ndola,2019,15,90,70,50,delayed
+Ndola,2020,5,15,10,5,failed
+Chipata,2018,55,125,100,85,normal
+Chipata,2019,12,85,65,55,delayed
+Chipata,2020,3,12,8,4,failed
